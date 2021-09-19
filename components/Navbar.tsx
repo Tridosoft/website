@@ -59,7 +59,7 @@ export default function WithSubnavigation() {
             lineHeight={'110%'}>
             
             <Text as={'span'} color={'orange.400'}>
-            🔱 Tridosoft
+             Tridosoft
             </Text>
             </Heading>
           </a>
